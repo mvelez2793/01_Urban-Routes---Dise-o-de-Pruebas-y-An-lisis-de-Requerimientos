@@ -4,7 +4,7 @@
 
 ## 📌 Resumen del Proyecto (Metodología STAR)
 
-*   **Situación:** La aplicación **Urban Routes** requería lanzar una nueva funcionalidad de "Compartir un Automóvil" (Car Sharing) . Era crítico asegurar que el formulario de "Agregar licencia de conducir" validara correctamente los datos del usuario , y que el algoritmo dinámico de cálculo de precios y duración del viaje (basado en la hora de salida y la distancia) funcionara sin errores matemáticos [3, 8].
+*   **Situación:** La aplicación **Urban Routes** requería lanzar una nueva funcionalidad de "Compartir un Automóvil" (Car Sharing) . Era crítico asegurar que el formulario de "Agregar licencia de conducir" validara correctamente los datos del usuario , y que el algoritmo dinámico de cálculo de precios y duración del viaje (basado en la hora de salida y la distancia) funcionara sin errores matemáticos.
 *   **Tarea:** Descomponer los requisitos de negocio, identificar "zonas grises" (ambigüedades) y diseñar la arquitectura de pruebas desde cero utilizando técnicas formales de diseño de pruebas.
 *   **Acción:** 
     * Modelé la interfaz y el comportamiento del módulo de licencias mediante un **Mapa Mental** .
