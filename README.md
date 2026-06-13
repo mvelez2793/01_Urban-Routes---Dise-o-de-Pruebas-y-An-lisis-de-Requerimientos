@@ -1,3 +1,7 @@
+<div align="right">
+  🌍 <strong>Español</strong> | <a href="README_en.md">English</a>
+</div>
+
 # 🚘 Urban Routes: Diseño de Pruebas y Análisis de Requerimientos (Car Sharing)
 
 ![Project](https://img.shields.io/badge/Project-Test_Design-blue) ![Status](https://img.shields.io/badge/Status-Completed-success) ![Tools](https://img.shields.io/badge/Tools-Draw.io_/_Google_Sheets-green) ![Techniques](https://img.shields.io/badge/Techniques-Boundary_Values_/_Equivalence_Classes-orange)
